@@ -1,8 +1,9 @@
 # Ejercicio de profundización
 
-__IMPORTANTE__: Tenga en cuenta que este ejercicio puede demorar un montón de tiempo, realice hasta donde usted se sienta satisfecho y no pierda el foco en el resto de la cursada o el proyecto.
+__NOTA:__ Se recuerda que los ejercicios de prfundización son para aquellas personas que puedan dedicarle más tiempo a practicar, son desafios extra. Lo idea es que puedan simpre completar primero los ejercicios de práctica y comprenderlos bien antes de hacer un ejercicio de profundización.
 
-Para esta desafio deberá aplicar lo aprendido con el responsive design y el "Minimalismo Moderno".
+### Misión
+Su misión, si decida aceptarla, es aplicar lo aprendido con el responsive design y el "Minimalismo Moderno" para construir una página.
 
 Dentro de esta carpeta encontrará los siguientes ejemplos:
 
@@ -20,4 +21,5 @@ Su HTML deberá tener al menos:
 - 1 Header con navbar o 1 footer con los datos de contacto
 - Deberá tener al menos 1 sección y dentro elementos hijos agrupados por display flex o grilla para que sea responsivo.
 
-¡Mucha suerte!
+# Desafio finalizado
+Verificado que todo funciona como se espera, deberá subir al campus el link de su respositorio en el desafio correspondiente para así concluir la realización del mismo.
