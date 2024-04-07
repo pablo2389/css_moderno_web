@@ -1,0 +1,67 @@
+body {
+    
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* Contenedor principal */
+.container {
+    display: flex; /* Cambiamos a flex para alinear en horizontal */
+    flex-direction: column; /* Alineación vertical por defecto */
+    min-height: 100vh;
+
+}
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    height: 200px;
+    padding: 1rem;
+    text-align: center;
+}
+.body-container {
+    display: flex; /* Alineamos los elementos en horizontal */
+    justify-content: space-between; /* Espacio entre los elementos */
+    align-items: center; /* Centramos verticalmente */
+    padding: 2rem;
+    height: 700px;
+}
+/* Contenedor para el cuerpo */
+.body-container img {
+  
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 0.5rem;
+    transition: transform 0.3s ease, border-bottom 0.3s ease; /* Transiciones suaves */
+}
+/* Imágenes en el hover */
+.body-container img:hover {
+    transform: translateY(-3px); /* Mueve la imagen hacia arriba */
+    border-bottom: 1px solid red; /* Agrega un subrayado rojo */
+}
+
+/* Footer */
+footer {
+    display: flex;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    justify-content: space-around;
+    padding: 10PX;
+    height: 100px;
+    align-items: center;
+}
+
+
+
+ footer img{
+    alt:10px;
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: 100px;
+    align-items: center;
+}
